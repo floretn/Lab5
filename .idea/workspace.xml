@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13023468-7101-4bdb-a37d-2e961bc66109" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hKEKjYkd4Tpgsc5os7YxE0KEcq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
+  </component>
+  <component name="RunManager" selected="Application.MovingFile">
+    <configuration name="Chain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.chain.Chain" />
+      <module name="Laboratornaya5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dop.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsVsErrorCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.battle.ExceptionsVsErrorCodes" />
+      <module name="Laboratornaya5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dop.battle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovingFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.moving.MovingFile" />
+      <module name="Laboratornaya5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dop.moving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Suppressed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.suppressed.Suppressed" />
+      <module name="Laboratornaya5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dop.suppressed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task7.Task7" />
+      <module name="Laboratornaya5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovingFile" />
+        <item itemvalue="Application.ExceptionsVsErrorCodes" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Chain" />
+        <item itemvalue="Application.Suppressed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13023468-7101-4bdb-a37d-2e961bc66109" name="Default Changelist" comment="" />
+      <created>1599751321873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599751321873</updated>
+      <workItem from="1599751325990" duration="8265000" />
+      <workItem from="1599814552313" duration="28768000" />
+      <workItem from="1599893257539" duration="7150000" />
+      <workItem from="1600453242287" duration="1186000" />
+      <workItem from="1600497276746" duration="8168000" />
+      <workItem from="1600700257909" duration="1247000" />
+      <workItem from="1600766697389" duration="642000" />
+      <workItem from="1601042011129" duration="10705000" />
+      <workItem from="1601241060077" duration="1159000" />
+      <workItem from="1601577933764" duration="565000" />
+      <workItem from="1601629767882" duration="388000" />
+      <workItem from="1601630482050" duration="575000" />
+      <workItem from="1601644700132" duration="653000" />
+      <workItem from="1601658102760" duration="3055000" />
+      <workItem from="1601715327395" duration="1102000" />
+      <workItem from="1602157391740" duration="5457000" />
+      <workItem from="1602182941770" duration="302000" />
+      <workItem from="1602231636317" duration="1214000" />
+      <workItem from="1602245146704" duration="1188000" />
+      <workItem from="1602262251304" duration="1629000" />
+      <workItem from="1602312881833" duration="4586000" />
+      <workItem from="1602398635128" duration="593000" />
+      <workItem from="1602516936945" duration="582000" />
+      <workItem from="1602580240250" duration="1184000" />
+      <workItem from="1602668064867" duration="567000" />
+      <workItem from="1602776011400" duration="16229000" />
+      <workItem from="1602842262609" duration="11080000" />
+      <workItem from="1602920392512" duration="4771000" />
+      <workItem from="1603379240364" duration="2350000" />
+      <workItem from="1603451649496" duration="2562000" />
+      <workItem from="1603489791148" duration="565000" />
+      <workItem from="1603491252216" duration="590000" />
+      <workItem from="1603524433854" duration="3857000" />
+      <workItem from="1603619171585" duration="5270000" />
+      <workItem from="1603634657612" duration="398000" />
+      <workItem from="1603739158071" duration="574000" />
+      <workItem from="1603827586198" duration="1636000" />
+      <workItem from="1603902809192" duration="2154000" />
+      <workItem from="1603982866250" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1599822789940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1599822789940" />
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600501465126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600501465126" />
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1603528085986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603528085986" />
+    <state x="369" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602314563143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1602314563143" />
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602314652510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1602314652510" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601058607179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601058607179" />
+    <state x="363" y="24" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1602781464215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="24" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1602781464215" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1603828013528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603828013528" />
+    <state width="1367" height="175" key="GridCell.Tab.0.bottom" timestamp="1603623374173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603623374173" />
+    <state width="1367" height="175" key="GridCell.Tab.0.center" timestamp="1603623374172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603623374172" />
+    <state width="1367" height="175" key="GridCell.Tab.0.left" timestamp="1603623374171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603623374171" />
+    <state width="1367" height="175" key="GridCell.Tab.0.right" timestamp="1603623374172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603623374172" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1602263851498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602263851498" />
+    <state x="244" y="101" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602263947267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="101" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1602263947267" />
+    <state x="413" y="131" key="extract.method.dialog" timestamp="1602787775975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="131" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1602787775975" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1599854036334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599854036334" />
+    <state x="65" y="67" key="new project wizard" timestamp="1603828037995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603828037995" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599835841632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599835841632" />
+  </component>
+</project>
