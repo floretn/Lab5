@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="13023468-7101-4bdb-a37d-2e961bc66109" name="Default Changelist" comment="" />
+    <list default="true" id="13023468-7101-4bdb-a37d-2e961bc66109" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dop/battle/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dop/battle/MyException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,32 +23,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hKEKjYkd4Tpgsc5os7YxE0KEcq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab6" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
   </component>
-  <component name="RunManager" selected="Application.MovingFile">
+  <component name="RunManager" selected="Application.MyException">
     <configuration name="Chain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dop.chain.Chain" />
       <module name="Laboratornaya5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dop.chain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suppressed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dop.suppressed.Suppressed" />
-      <module name="Laboratornaya5" />
+    <configuration name="MyException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.battle.MyException" />
+      <module name="Lab5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dop.suppressed.*" />
+          <option name="PATTERN" value="dop.battle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7.Task7" />
-      <module name="Laboratornaya5" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dop.test.Test" />
+      <module name="Lab5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7.*" />
+          <option name="PATTERN" value="dop.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyException" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Chain" />
         <item itemvalue="Application.MovingFile" />
         <item itemvalue="Application.ExceptionsVsErrorCodes" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Chain" />
-        <item itemvalue="Application.Suppressed" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +125,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,84 +175,26 @@
       <workItem from="1603827586198" duration="1636000" />
       <workItem from="1603902809192" duration="2154000" />
       <workItem from="1603982866250" duration="580000" />
+      <workItem from="1610733078284" duration="4127000" />
+      <workItem from="1610786201912" duration="4809000" />
+      <workItem from="1610997334594" duration="729000" />
+      <workItem from="1611173299432" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Project_Structure" timestamp="1599822789940">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1599822789940" />
-    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600501465126">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600501465126" />
-    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1603528085986">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603528085986" />
-    <state x="369" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602314563143">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="369" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1602314563143" />
-    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602314652510">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1602314652510" />
-    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601058607179">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601058607179" />
-    <state x="363" y="24" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1602781464215">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="363" y="24" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1602781464215" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1603828013528">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603828013528" />
-    <state width="1367" height="175" key="GridCell.Tab.0.bottom" timestamp="1603623374173">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603623374173" />
-    <state width="1367" height="175" key="GridCell.Tab.0.center" timestamp="1603623374172">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603623374172" />
-    <state width="1367" height="175" key="GridCell.Tab.0.left" timestamp="1603623374171">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603623374171" />
-    <state width="1367" height="175" key="GridCell.Tab.0.right" timestamp="1603623374172">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603623374172" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1602263851498">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602263851498" />
-    <state x="244" y="101" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602263947267">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="244" y="101" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1602263947267" />
-    <state x="413" y="131" key="extract.method.dialog" timestamp="1602787775975">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="131" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1602787775975" />
-    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1599854036334">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599854036334" />
-    <state x="65" y="67" key="new project wizard" timestamp="1603828037995">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603828037995" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599835841632">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599835841632" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
